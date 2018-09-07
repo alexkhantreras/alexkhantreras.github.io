@@ -37,6 +37,9 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>TDD e Continuous Integration</li>
 </ul>
 
+* skill 1
+* skill 2
+
 <h2>Projects</h2>
 
 <ul>
