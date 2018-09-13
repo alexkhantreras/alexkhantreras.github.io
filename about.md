@@ -4,46 +4,31 @@ layout: page
 ---
 ![Profile Image](/assets/images/profile.jpg)
 
-<p>alex ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Here's where I stand atm. I'm holding a degree in physics, have a few years of
+work experience under my belt that extends from manufacturing to the non-profit
+space, and an ambition to continue forging a career in data analytics and process
+improvement.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+If I'm not enjoying myself I'm improving myself, so I'm always game for an
+adventure or for learning a new skill. Currently, that's a lot of stats review
+and expanding on the machine learning work I did during my final year of school.
 
-<h2>Skills</h2>
+I also like to write about what I'm learning, so check the [blog](/blog). If you
+have any questions feel free to shoot me a message.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+## Here are some things I know how to do:
+	* Python
+	* NumPy
+	* Pandas
+	* SQL
+	* Tableau
+	* Experiment and process design
+	* Statistical analysis
+	* Git
 
-* skill 1
-* skill 2
+## And here are a few questions I've tried to answer:
+	* Is the Tarrant Area Food Bank making a dent in hunger in North Texas?
+	* How is reddit feeling about ____?
+	* Will you enjoy ____ based on Yelp! reviews and your current mood?
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+Or [check out some of what I did to skill-up on my GitHub](https://github.com/alexkhantreras)
