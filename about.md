@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image](/assets/images/profile.jpg)
 
-## Here's where I stand atm.
+## Here's where I stand atm,
 I'm holding a degree in physics, have a few years of
 work experience under my belt that extends from manufacturing to the non-profit
 space, and an ambition to continue forging a career in data analytics and process
@@ -17,7 +17,7 @@ and expanding on the machine learning work I did during my final year of school.
 I also like to write about what I'm learning, so check the [blog](/blog). If you
 have any questions feel free to shoot me a message.
 
-## Here are some things I know how to do:
+## Here are some things I know how to do,
 * Python
 * NumPy
 * Pandas
@@ -27,7 +27,7 @@ have any questions feel free to shoot me a message.
 * Statistical analysis
 * Git
 
-## And here are a few questions I've tried to answer:
+## And here are a few questions I've tried to answer,
 * Is the Tarrant Area Food Bank making a dent in hunger in North Texas?
 * How is reddit feeling about ____?
 * Will you enjoy ____ based on Yelp! reviews and your current mood?
