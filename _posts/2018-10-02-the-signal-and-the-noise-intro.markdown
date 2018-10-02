@@ -28,12 +28,15 @@ Despite the proliferation of computing power and theory, the average input per U
 The bright side was that we learned the lessons more quickly than before, though not quickly enough for some companies or government programs to remain in operation. Our research dollars were shifted towards more pragmatic things. Computers improved our daily lives if they couldn't yet build the science fiction future promised in the ‘70s and ’80’s. This second iteration of the information abundance problem was more peaceful but still quite costly.
 
 **The Promise and Pitfalls of “Big Data”**
+
 Now we have Big Data, and it is not a cure-all. It's analogous to computers in the 1970s -  a tool. The data and the numbers might be there but they cannot speak for themselves. Some data-driven predictions have succeeded, like in Silver's political and sport cases, but most fail. For instance, despite plenty of information and access to more, we did not see the 9/11 attacks coming. The improvements in meteorological prediction have been slow and costly, especially to the esteem and reputation of weathermen. Prediction failed again in 2008 and in the years preceding the financial crisis. Political scientists, relying on the best practices and best data, are wrong a whopping 15% of the time when they predict a 0% chance of an event occurring. Japanese engineers built Fukushima to withstand an 8.6 magnitude earthquake, believing that anything stronger was an impossibility. A 9.1 magnitude quake hit Japan in March 2011.  There are plenty of other cases in plenty of other fields where our new troves of data are not yielding invulnerable predictions
 
 **Why the Future Shocks Us**
+
 We are wired to find patterns, not to discern truths from insane amounts of data. This stone-age strength is an information-age weakness. The sectarianism that the printing press produced is being produced again by the internet and by the partisanship media sources. It's a case of more information but less knowledge. It isn't difficult to see that the modern information infrastructure lowers the cost of entry for worse ideas. Their propagation is almost a sure thing now. And because we cannot hold all the requisite context for proper processing, or hold the wrong or false context, we are constantly surprised by the events of the day.
 
 **The Prediction Solution**
+
 Apart from all the predictions we know to have been wrong, there are many that we cannot test soon or at all. For instance, it's difficult to predict the value or detriment of long term social programs or lack-there-of. Given our record though, we have little reason to be optimistic about many of these already taken decisions which we cannot validate.
 
 Nevertheless, prediction is useful and necessary, so we have little choice but to get better at it. This will require a change of mind from the craving of discrete outcomes to thinking in terms of probabilities and uncertainties.
