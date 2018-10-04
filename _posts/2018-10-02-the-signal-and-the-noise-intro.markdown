@@ -12,9 +12,9 @@ author: alejandrocontreras
 description: A distillation of Nate Silver's The Signal and the Noise
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
-# The Signal and the Noise, by Nate Silver
 
 ## Introduction
+
 **More Information, More Problems**
 
 For the entirety of our species' history the small amounts of knowledge that existed were available only to a few. Books were expensive to produce and were copied by hand and few could read. They were prone to both major errors and minor errors that would have major consequences. The printing press changed this. In terms of today's dollars, the press lowered the cost of copying books from approximately $20,000 to about $70 each. At this point, the errors, mis-prints, and different interpretations of religious and philosophical texts would diffuse easily throughout the western world.  The small errors that resulted from different printings created huge rifts among religious and political groups. Revolutionary ideas that broke with tradition did not stay tacked to the church door but were instead copied and distributed at best-seller rates. Zealots from different factions now had written proof to back their claims. When presented with so much information we did what we do now -  we engaged with it selectively. We upheld the works that adhered to our beliefs and opposed contradicting ideas. This is why before the press brought about The Enlightenment it ignited 300 years of bloody wars and violent inquisitions in Europe.
