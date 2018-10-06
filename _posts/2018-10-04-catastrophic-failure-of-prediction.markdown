@@ -13,7 +13,7 @@ description: A continued distillation of Nate Silver's The Signal and the Noise
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
-## Chapter 2: A Catastrophic Failure of Prediction
+## Chapter 1: A Catastrophic Failure of Prediction
 In the fall of 2008 the credit market had ceased to operate. Long standing financial institutions were bankrupt and more were on the verge. With the presidential election less than 2 weeks away pollsters measured the lowest confidence in government that had ever been recorded. Congress had gathered the heads of the 3 credit-rating agencies to account for the cause of the worst financial crisis since the late 1920s. The leaders of Standard & Poor’s, Moody's, and Fitch Ratings testified that their ratings of trillions of dollars of mortgage-backed securities were sound. They, just like everyone else, were simply victims of the housing bubble.  But in all likelihood this wasn't the case. They were trusted with predicting the odds of default for these assets and they blew the call. Why?
 
 **The Worst Prediction of a Sorry Lot**
