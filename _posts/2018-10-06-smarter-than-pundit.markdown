@@ -61,4 +61,5 @@ In the 24 hour news cycle pundits have an interest in keeping the conversation e
 
 The pieces were there and the prediction was not so bold, but few solved the puzzle because few were willing to come to center. Conservatives in general were correct about the dire state of the Soviet economy. GDP was declining by 5% annually and inflation was into double digits. The Soviet Block states received more in aid from Moscow than they contributed so most Russians were willing to cut them loose.
 Liberals in general were more willing to see Gorbachev's notions glasnost as legitimate, not as propaganda. The coup attempt by hardliners had been repulsed and reform was in the hearts of the people as well as in the minds of leadership. 
+
 But alas, there was more bickering between the two sides than effective exchange of knowledge and ideas. In the end the downfall of the USSR was claimed to have been inevitable, though few made that claim prior to 1991.
