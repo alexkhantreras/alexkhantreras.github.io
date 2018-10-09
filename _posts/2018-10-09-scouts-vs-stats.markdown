@@ -1,7 +1,7 @@
 ---
 title: "All I Care About Are Ws and Ls, by Nate Silver"
 layout: post
-date: 2018-10-09 16:00
+date: 2018-10-09 15:00
 image:
 headerImage: false
 tag:

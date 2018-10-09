@@ -14,6 +14,7 @@ description: A continued distillation of Nate Silver's The Signal and the Noise
 ---
 
 ## Chapter 2: Are You Smarter Than A Television Pundit?
+
 Hardly anyone foresaw the fall of the Berlin Wall. Few predicted the collapse of the USSR a few years later despite it being the most important geo-political event since WWII and despite the massive momentum with which such an event would arrive. Dr. Tetlock of UC Berkley wondered why?
 
 Tetlock followed political commentary on television and found that pundits were no better than a fair coin at determining whether or not an event would come to pass. Of 733 predictions made by television pundits  Tetlock found
