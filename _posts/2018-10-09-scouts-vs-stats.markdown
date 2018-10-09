@@ -13,7 +13,7 @@ description: A continued distillation of Nate Silver's The Signal and the Noise
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
-# Baseball Beat the World to Data
+## Chapter 3: All I Care About Are Ws and Ls
 
 Professional baseball is a microcosm of the data revolution that our economies are working and struggling through now. Before ‘data driven’ was a common phrase, Major League teams were using the immense stores of numbers to answer the primary question in professional sports - how to turn money into wins, and those wins into more money.
 
