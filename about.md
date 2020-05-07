@@ -4,32 +4,21 @@ layout: page
 ---
 ![Profile Image](/assets/images/profile.jpg)
 
-## Here's where I stand atm,
-I'm holding a degree in physics, have a few years of
-work experience under my belt that extends from manufacturing to the non-profit
-space, and an ambition to continue forging a career in data analytics and process
-improvement.
+## Here's a bit about me
+I studied physics in college, where I learned a good bit of problem solving. The 
+defining feature of my education was the couple of seasons of FSAE, where I helped 
+design, fabricate, and test racecars. I'm still very thankful for the friends I made
+while there and the lessons I learned. 
 
-If I'm not enjoying myself I'm improving myself, so I'm always game for an
-adventure or for learning a new skill. Currently, that's a lot of stats review
-and expanding on the machine learning work I did during my final year of school.
+My internship experience covers process improvement in manufacturing, non-profit 
+logistics and fin-tech. I'm working as a Data Engineer at a great ad tech firm atm.
 
-I also like to write about what I'm learning, so check the [blog](/blog). If you
-have any questions feel free to shoot me a message.
+I don't study quite as much anymore but I do learn plenty - mostly at work but some
+on my own time. I like to write about what I'm learning, so I keep notes [blog](/blog)
+for my future self and anyone that might benefit. 
 
 ## Here are some things I know how to do,
 * Python
-* NumPy
-* Pandas
 * SQL
-* Tableau
-* Experiment and process design
-* Statistical analysis
-* Git
-
-## And here are a few questions I've tried to answer,
-* Is the Tarrant Area Food Bank making a dent in hunger in North Texas?
-* How is reddit feeling about ____?
-* Will you enjoy ____ based on Yelp! reviews and your current mood?
-
-Or [check out some of what I did to skill-up on my GitHub](https://github.com/alexkhantreras)
+* AWS
+* GCP

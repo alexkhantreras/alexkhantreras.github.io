@@ -1,6 +1,6 @@
 # main text of home
 name: Alejandro Contreras
-bio: Physics/ME -> Data Analytics, while hanging, reading, and rock climbing
+bio: Physics/ME -> Data Engineering
 
 # twitter summary info
 description: Yo
@@ -37,7 +37,7 @@ disqus:
 # facebook: myfacebook
 twitter: alexmartc
 # google: mygoogle
-instagram: jandro.contreras
+# instagram: myinsta
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -51,12 +51,12 @@ github: alexkhantreras
 medium: alexmartc
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: alex.mart.contreras@me.com
+# email: myemail
 
 authors:
     johndoe:
         name: Alejandro Contreras
-        bio: Learning or playing, preferably both
+        bio:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: alexmartc
