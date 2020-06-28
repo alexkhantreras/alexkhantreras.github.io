@@ -13,8 +13,6 @@ description: What I thought of An American Marriage, by Tayari Jones
 
 ---
 
-## An American Marriage, by Tayari Jones
-
 > **“A marriage is more than your heart, it's your life. And we are not
   sharing ours.”**
 
