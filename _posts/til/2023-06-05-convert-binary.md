@@ -78,3 +78,5 @@ decimal = int(binary_num, 2)
 ```
 
 Also, note that I used a string representation of a binary sequence but most languages have binary types or some better way to represent them.
+
+<br/> <br/>
